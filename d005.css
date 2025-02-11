@@ -1,0 +1,42 @@
+body{
+    margin: 0px;
+}
+.profile_picture{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: block;
+    margin-left: 10px;
+}
+h1{
+    margin: 10px;
+    margin-top: 15px;
+    font-family: "reboto", serif;
+    font-size: 40px;
+}
+h2{
+    margin: 10px;
+    margin-top: 15px;
+    font-family: "reboto", serif;
+    font-size: 30px;
+}
+p{
+    margin: 10px;
+    font-family: "open-sans", serif;
+    margin-top: 15px;
+    font-size: 20px;
+}
+.container{
+    width: 60%;
+}
+.social-links{
+    font-family: "open-sans", serif;
+    margin: 10px;
+    font-size: 20px;
+    width: 60%;
+}
+footer {
+    height: 25px;
+    background-color: #DDD;
+    font-family: "open-sans", serif;
+}
